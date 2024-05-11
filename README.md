@@ -29,3 +29,8 @@ Here is only a small list of available features in the Adata:
 - Cross Browser Compatibility
 - Multiple Color Variations
 - Awesome Documentation and Support
+
+
+## Documentation
+Read the full documentation here: 
+### [Documentation](https://wrapcoders.github.io/Metrical/documentation/documentation.html)
